@@ -13,4 +13,4 @@ This project aims at an introductory study on APIs REST following the @rocketsea
 ## API 
 The API used for the study was:
 
-<a src="https://github.com/jakeliny/node-api-discover">Node API discover</a>
+<a href="https://github.com/jakeliny/node-api-discover">Node API discover</a>
