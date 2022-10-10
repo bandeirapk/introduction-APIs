@@ -1,0 +1,13 @@
+{
+    "name": "Antonio Bandeira",
+    "city": "Quixadá",
+    "Phone": 85992950771,
+    "livros_favoritos": [
+        "Milagre do amanhã",
+        "Clean code"
+    ],
+    "hobbies": {
+        "esported": "Jogar basquete",
+        "fim_de_semana": "Jogos online"
+    }
+}
